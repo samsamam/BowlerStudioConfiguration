@@ -1,7 +1,17 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://github.com/samsamam/helloWorld_samsamam.git": [
+      "samsamam/helloWorld_samsamam",
+      "1614652884747"
+    ]
+  },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/samsamam/helloWorld_samsamam.git:hello.py": [
+      "https://github.com/samsamam/helloWorld_samsamam.git",
+      "hello.py"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.24.0",
